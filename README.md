@@ -19,4 +19,4 @@ Studio Namma is a premium digital agency website focused on craft, bold design, 
 ├── css/
 │   └── style.css       # Core styling and layout
 ├── js/
-│   └── script.js          # GSAP animation logic and interactive features
+│   └── script.js          #  animation logic and interactive features
